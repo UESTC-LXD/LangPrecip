@@ -10,8 +10,6 @@
 
 ## 数据样例 / Dataset Examples
 
-下图展示了 LangPrecip-160K 中的雷达回波序列与对应的运动文本描述。点击任意图片可查看对应高清图。
-
 The examples below show representative radar echo sequences paired with corresponding natural-language motion descriptions. Click any figure to view the corresponding high-resolution image.
 
 **Example 1**
@@ -44,7 +42,7 @@ The examples below show representative radar echo sequences paired with correspo
 
 该数据集来自我们的 ICML 2026 工作：
 
-**[LangPrecip: Language-Aware Multimodal Precipitation Nowcasting](https://arxiv.org/pdf/2512.22317)**
+**[LangPrecip: Language-Aware Multimodal Precipitation Nowcasting](https://icml.cc/virtual/2026/poster/60525)**
 
 ### 数据集简介
 
@@ -90,7 +88,7 @@ This repository provides the release information for **LangPrecip-160K**, a larg
 
 LangPrecip-160K is introduced in our ICML 2026 work:
 
-**[LangPrecip: Language-Aware Multimodal Precipitation Nowcasting](https://arxiv.org/pdf/2512.22317)**
+**[LangPrecip: Language-Aware Multimodal Precipitation Nowcasting](https://icml.cc/virtual/2026/poster/60525)**
 
 ## Dataset
 
@@ -109,6 +107,14 @@ Please refer to the ModelScope page for the latest access instructions, file org
 ## Paper
 
 - **Paper:** [arXiv:2512.22317](https://arxiv.org/pdf/2512.22317)
+```
+@article{ling2025langprecip,
+  title={Langprecip: Language-aware multimodal precipitation nowcasting},
+  author={Ling, Xudong and Li, Chaorong and Huang, Tianxi and Dong, Qian and Duan, Guiduo},
+  journal={arXiv preprint arXiv:2512.22317},
+  year={2025}
+}
+```
 
 ## Suggested Uses
 
